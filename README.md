@@ -4,7 +4,7 @@ Analysis of Apple Stock Price
 1. Get the Dataset of Apple Stock Price
 2. Load the dataset
 3. Data Preprocessing 
-4. Exploratory Data Analysis based on  following features like high price, low price, opening price, closing price and volumen.
+4. Exploratory Data Analysis based on  following features: high price, low price, opening price, closing price and volume.
 5. Feature Engineering
 6. Built Machine Learning Model with Linear Regression
 7. Splitted data in Train and Test in 70:30 ratio
